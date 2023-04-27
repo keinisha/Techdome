@@ -31,7 +31,7 @@ def main():
     else:
         image=Image.open(file)
         st.image(image, use_column_width=True)
-        predictions = import_and_predict(image,model)
+        predictions = import_and_predict(image,efficientnet)
         class_names=['angry','sad','relaxed','happy']
         string="The dog is most likely "+class_names[np.argmax(predictions)]
         st.success(string)
