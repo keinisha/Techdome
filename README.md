@@ -8,6 +8,7 @@ Results
 Applied dataset on 6 models with the following accuracies
 <br>CNN - 40.98
 <br>ImageNet - 30.15
+<br>MobileNet - 51.67
 <br>ResNet50 - 40.63
 <br>InceptionV3 - 45.40
 <br>EfficeintNet - 30.15
