@@ -9,5 +9,5 @@ Applied dataset on 6 models with the following accuracies
 CNN - 40.98
 ImageNet - 30.15
 ResNet50 - 40.63
-InceptionV3 - 
+InceptionV3 - 45.40
 EfficeintNet - 
