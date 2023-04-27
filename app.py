@@ -2,7 +2,7 @@ import numpy as np
 import streamlit as st
 import pickle
 
-pickle_in = open(r'C:\Users\keini\Desktop\Techdome\inceptionv3.pickle', 'rb') # download pickle file add path here
+pickle_in = open(r'inceptionv3.pkl', 'rb') # download pickle file add path here
 inceptionv3 = pickle.load(pickle_in) # add pickle file
 
 import cv2
