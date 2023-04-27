@@ -3,7 +3,7 @@ import streamlit as st
 import pickle
 
 pickle_in = open(r'efficientnet.pickle', 'rb') # download pickle file add path here
-mobilenet = pickle.load(pickle_in) # add pickle file
+efficientnet = pickle.load(pickle_in) # add pickle file
 
 import cv2
 from PIL import Image, ImageOps
