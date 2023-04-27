@@ -5,7 +5,7 @@ Design a model to identify dog emotions and prepare an api which when hit with d
 
 --------------
 Results: https://keinisha-techdome-app-m4toqi.streamlit.app/
-Applied dataset on 6 models with the following accuracies
+<br>Applied dataset on 6 models with the following accuracies
 <br>CNN - 40.98
 <br>ImageNet - 30.15
 <br>MobileNet - 51.67
