@@ -4,3 +4,4 @@ scikit-learn
 efficientnet
 Keras
 tensorflow
+pickle
