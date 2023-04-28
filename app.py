@@ -1,6 +1,7 @@
 import numpy as np
 import streamlit as st
 import pickle
+from prediction import predict
 
 pickle_in = open(r'efficientnet.pickle', 'rb') # download pickle file add path here
 efficientnet = pickle.load(pickle_in) # add pickle file
